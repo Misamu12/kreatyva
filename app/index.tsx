@@ -1,13 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { 
-  View, 
-  Text, 
-  Button, 
-  StyleSheet, 
-  FlatList, 
-  Animated,
-  TouchableOpacity 
-} from 'react-native';
+import { View, Text, Button, StyleSheet, FlatList, Animated,TouchableOpacity } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const Index = () => {
