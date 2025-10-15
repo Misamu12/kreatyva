@@ -1,4 +1,1 @@
-CREATE TABLE IF NOT EXISTS app_status (
-  id INTEGER PRIMARY KEY NOT NULL,
-  first_open TEXT
-);
+--- Refaire le BDD
